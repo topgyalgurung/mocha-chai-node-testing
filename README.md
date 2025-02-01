@@ -1,8 +1,7 @@
 # mocha-chai-node-testing
 Mocha &amp; Chai Testing Setup with Node.js and ESM Modules
 
-### took me hours to troubleshoot errors with chai import
-This method resolved the error:
+This method resolved the error
 ```js
 import * as chai from "chai";
 import chaiHttp from "chai-http";
